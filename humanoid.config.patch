@@ -9,7 +9,7 @@
 {"op":"add","path":"/personalities/-","value":[ "fall.3", "attude.1", [0, 1], [-1, 0] ]}, //crane3
 {"op":"add","path":"/personalities/-","value":[ "fall.4", "attude.1", [0, 1], [-1, 0] ]}, //crane4
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.1",[-1,0],[-2,-1]]}, //fight
-{"op":"add","path":"/personalities/-","value":["idle.3","attude.2",[-1,0],[-2,0]]}, //dab
+{"op":"add","path":"/personalities/-","value":["idle.3","attude.2",[-1,0],[-2,-1]]}, //dab
 {"op":"add","path":"/personalities/-","value":[ "swim.4", "attude.3", [0, -1], [0, -2] ]}, //saturday night fever
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.4",[-1,0],[-1,0]]}, //point
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.5",[-1,0],[-2,-1]]}, //fist
