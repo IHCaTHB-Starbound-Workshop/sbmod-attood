@@ -2,7 +2,7 @@
 {"op":"add","path":"/personalities/-","value":["idle.4","duck.2",[0,0],[-1,0]]}, //airplane redux
 {"op":"add","path":"/personalities/-","value":[ "walk.8", "idle.1", [0, 0], [0, 0] ]}, //relaxed1
 {"op":"add","path":"/personalities/-","value":[ "walk.7", "idle.1", [0, -1], [0, -1] ]}, //relaxed2
-{"op":"add","path":"/personalities/-","value":[ "run.8", "idle.1", [0, -1], [0, -1] ]}, //relaxed3
+{"op":"add","path":"/personalities/-","value":[ "run.8", "idle.1", [1, -1], [1, -1] ]}, //relaxed3
 {"op":"add","path":"/personalities/-","value":[ "walk.4", "idle.5", [0, 0], [0, 0] ]}, //dainty
 {"op":"add","path":"/personalities/-","value":[ "fall.1", "attude.1", [0, 1], [-1, 0] ]}, //crane1
 {"op":"add","path":"/personalities/-","value":[ "fall.2", "attude.1", [0, 1], [-1, 0] ]}, //crane2
@@ -14,6 +14,6 @@
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.4",[-1,0],[-1,0]]}, //point
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.5",[-1,0],[-2,-1]]}, //fist
 {"op":"add","path":"/personalities/-","value":["idle.3","attude.6",[-1,0],[-1,0]]}, //nails
-{"op":"add","path":"/personalities/-","value":[ "swimIdle.1", "idle.5", [0, 0], [0, 0] ]}, //tiptoe
+{"op":"add","path":"/personalities/-","value":[ "swimIdle.1", "idle.5", [1, 0], [0, 0] ]}, //tiptoe
 {"op":"add","path":"/personalities/-","value":[ "run.4", "swimIdle.2", [0, -1], [0, -1] ]} //pee dance
 ]
