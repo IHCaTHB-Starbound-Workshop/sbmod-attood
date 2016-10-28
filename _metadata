@@ -1,18 +1,11 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Twice the airplane! A million times more dab![/h1]
-  Adds new personalities, some goofy some srs.
-  Works with any modded race that uses the default humanoid AND armor frame files, instead of adding its own.
-  Characters generated with this mod stay will lose limbs if you uninstall this mod. Use with care, lest you have to starcheat them back into existence.
-  Find the chest armor frame fixes needed to make this mod on [url=https://github.com/IsaacHart/sbtool.chefrafix/releases]git.[/url]
-  
-  [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
-  Find the server version on [url=https://github.com/IsaacHart/sbmod-attood/releases]git.[/url]",
+  "description" : "[h1]Twice the airplane! A million times more dab![/h1]\n  Adds new personalities, some goofy some srs.\n  Works with any modded race that uses the default humanoid AND armor frame files, instead of adding its own.\n  Characters generated with this mod stay will lose limbs if you uninstall this mod. Use with care, lest you have to starcheat them back into existence.\n  Find the chest armor frame fixes needed to make this mod on [url=https://github.com/IsaacHart/sbtool.chefrafix/releases]git.[/url]\n  \n  [url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]\n  Find the server version on [url=https://github.com/IsaacHart/sbmod-attood/releases]git.[/url]",
   "friendlyName" : "Personality...minus!!??",
   "includes" : [],
-  "link" : "",
+  "link" : "steam://url/CommunityFilePage/788398778",
   "name" : "ATTOOD.IHC",
   "requires" : [],
-  "steamContentId" : "",
+  "steamContentId" : "788398778",
   "version" : "0.1"
 }
