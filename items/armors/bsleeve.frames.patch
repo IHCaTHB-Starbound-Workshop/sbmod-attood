@@ -6,31 +6,31 @@
   {
     "op": "add",
     "path": "/aliases/attude.1",
-    "value": "swim.2"
+    "value": "run.5"
   },
   {
     "op": "add",
     "path": "/aliases/attude.2",
-    "value": "fall.1"
+    "value": "swimIdle.1"
   },
   {
     "op": "add",
     "path": "/aliases/attude.3",
-    "value": "jump.4"
+    "value": "fall.4"
   },
   {
     "op": "add",
     "path": "/aliases/attude.4",
-    "value": "idle.2"
+    "value": "rotation"
   },
   {
     "op": "add",
     "path": "/aliases/attude.5",
-    "value": "run.1"
+    "value": "run.5"
   },
   {
     "op": "add",
     "path": "/aliases/attude.6",
-    "value": "idle.2"
+    "value": "jump.2"
   }
 ]
